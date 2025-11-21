@@ -31,6 +31,7 @@ curl -X 'PUT' \
   "description": "string",
   "completed": false
 }'
+
 Response:
 {
   "id": 1,
